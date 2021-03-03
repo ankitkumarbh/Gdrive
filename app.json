@@ -94,7 +94,7 @@
 
   "IS_TEAM_DRIVE": {
 
-   "description": "(Optional field) Set to "True" if GDRIVE_FOLDER_ID is from a Team Drive else False or Leave it empty..",
+   "description": "(Optional field) Set to True if GDRIVE_FOLDER_ID is from a Team Drive else False or Leave it empty..",
 
    "value": "",
 
